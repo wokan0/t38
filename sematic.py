@@ -1,3 +1,6 @@
+# Simpler model doesn't have word vectors and can't find similarity
+# between two words that are given out of context
+
 # importing spacy and loading the model
 import spacy
 
